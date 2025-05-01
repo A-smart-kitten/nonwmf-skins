@@ -10,12 +10,21 @@
 [submodule "Citizen"]
 	path = Citizen
 	url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen.git
+[submodule "DarkCosmos"]
+	path = DarkCosmos
+	url = https://github.com/wikimedia/DarkCosmos
 [submodule "DarkVector"]
 	path = DarkVector
 	url = https://github.com/dolfinus/DarkVector.git
+[submodule "Dgraph"]
+	path = Dgraph
+	url = https://github.com/wikimedia/mediawiki-dgraph-skin
 [submodule "FemiwikiSkin"]
 	path = FemiwikiSkin
 	url = https://github.com/femiwiki/FemiwikiSkin
+[submodule "Jony"]
+	path = Jony
+	url = https://github.com/wikimedia/Jony
 [submodule "Lakeus"]
 	path = Lakeus
 	url = https://github.com/lakejason0/mediawiki-skins-Lakeus
@@ -52,6 +61,9 @@
 [submodule "VectorBlue"]
 	path = VectorBlue
 	url = https://github.com/Sturmkrieg/mw-VectorBlue
+[submodule "Wisky"]
+	path = Wisky
+	url = https://github.com/wikimedia/mediawiki-skins-Wisky
 [submodule "chameleon"]
 	path = Chameleon
 	url = https://github.com/cmln/chameleon
